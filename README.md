@@ -46,17 +46,23 @@ Each section is accessible via smooth-scrolling navigation, with a consistent la
 
 ## 📂 Project Structure
 
-Restaurant_website/ ├── index.html # Main HTML file ├── style.css # Custom CSS styling ├── script.js # JavaScript for interactivity ├── images/ # Assets used in the site └── README.md # Project documentation
-
-yaml
-Copy
-Edit
+Restaurant_website/ 
+├── index.html # Main HTML file 
+├── style.css # Custom CSS styling 
+├── script.js # JavaScript for interactivity 
+├── images/ # Assets used in the site 
+└── README.md # Project documentation
 
 ---
+![byteblazzerr-github-io-1024x768desktop-1877d0](https://github.com/user-attachments/assets/05d25a26-e3ef-479d-877b-32010fb1d7eb)
 
-## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/3a8a9812-1856-452a-8b4b-3d498dcdc586)
 
-> *(Add screenshots here if possible — use actual website views like hero section, menu, and contact form.)*
+![image](https://github.com/user-attachments/assets/ded2e689-b48c-4c1c-a7e4-fe692547c0bb)
+
+![image](https://github.com/user-attachments/assets/e969d7b8-4e71-4062-9552-79e8efcb000f)
+
+
 
 ---
 
@@ -67,26 +73,20 @@ Edit
    git clone https://github.com/ByteBlazzerr/Restaurant_website.git
 Open index.html in your preferred browser to view the site locally.
 
+
+
 🙋‍♀️ Author
 Aakanksha Ghodki
 📧 GitHub | 🌐 Portfolio
 
+
 💡 Future Enhancements
-Add a booking/reservation system
+-Add a booking/reservation system
+-Integrate backend for form submission
+-Improve accessibility and SEO optimization
 
-Integrate backend for form submission
-
-Improve accessibility and SEO optimization
-
-Add animation using JavaScript or external libraries
 
 📄 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
-
 ---
-
-Let me know if you’d like me to include GitHub badges or help add screenshots!
