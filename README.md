@@ -79,7 +79,7 @@ Open index.html in your preferred browser to view the site locally.
 
 🙋‍♀️ Author
 Aakanksha Ghodki
-📧 GitHub | 🌐 Portfolio
+
 
 
 
