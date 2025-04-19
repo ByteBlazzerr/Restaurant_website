@@ -79,14 +79,14 @@ Open index.html in your preferred browser to view the site locally.
 Aakanksha Ghodki
 📧 GitHub | 🌐 Portfolio
 
----
+-
 
 💡 Future Enhancements
--Add a booking/reservation system
+-Add a booking/reservation system.
 -Integrate backend for form submission
 -Improve accessibility and SEO optimization
 
----
+-
 
 📄 License
 This project is open-source and available under the MIT License.
